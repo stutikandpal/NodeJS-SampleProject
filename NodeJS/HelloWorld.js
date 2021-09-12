@@ -19,6 +19,8 @@ console.log("npm install --save-dev nodemon (if we want nodemon should work only
 console.log("npm uninstall nodemon (to uninstall something)")
 console.log("Add 'Path':'module' for ES6 and 'common javascript' for CJS in package.json")
 console.log("npm install --save express")
+console.log("npm install")
+console.log("personal token: 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")
 /*
 User1= require("./secondfile");
 console.log("Imported Element 1 is \n",User1)
